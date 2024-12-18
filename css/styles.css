@@ -210,3 +210,7 @@ button:focus {
 .logo-span {
     color: #f4f4fd;
 }
+.logo {
+    color: blue;
+    font-weight: bold;
+}
